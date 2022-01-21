@@ -1,0 +1,157 @@
+a{
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+}
+h1{
+  margin-left: 80px;
+  margin-bottom: 0;
+  color: white;
+}
+p{
+  font-size: 12px;
+}
+body{
+  margin: 0;
+}
+.navbar1{
+  display:inline-block;
+  margin-left: 80px;
+  margin-right: 250px;
+  color: white;
+
+}
+.btn {
+  margin-left: 300px;
+  background: yellow;
+  background-image: -webkit-linear-gradient(top, yellow, yellow);
+  background-image: -moz-linear-gradient(top, yellow, yellow);
+  background-image: -ms-linear-gradient(top, yellow, yellow);
+  background-image: -o-linear-gradient(top, yellow, yellow);
+  background-image: linear-gradient(to bottom, yellow, yellow);
+  -webkit-border-radius: 1;
+  -moz-border-radius: 1;
+  border-radius: 1px;
+  font-family: Arial;
+  color: black;
+  font-size: 20px;
+  padding: 11px 18px 13px 14px;
+  text-decoration: none;
+}
+
+.top{
+  background-color:black;
+  margin:0;
+  padding-bottom: 40px;
+
+}
+.p1{
+  margin-left: 80px;
+  margin-top: 0;
+  color: white;
+}
+.tags1{
+
+  display: inline-block;
+  margin: 25px 0 30px 80px;
+}
+.tags2{
+
+  display: inline-block;
+  margin: 25px 0 30px 85px;
+}
+.img1{
+  margin-left: 80px;
+}
+.img2{
+  margin-left: 50px;
+}
+.title1{
+  color: white;
+  margin-left: 80px;
+  display: inline-block;
+  margin-bottom: 0;
+
+}
+.title2{
+  color: white;
+  margin-left: 465px;
+  display: inline-block;
+  margin-right: 150px;
+  margin-bottom: 0;
+}
+.p2{
+  color: white;
+  margin-left: 80px;
+  margin-top: 0;
+  display: inline-block;
+
+}
+.p3{
+  color: white;
+  margin-left: 290px;
+  margin-top: 0;
+  display: inline-block;
+}
+.mid1{
+  background-color: grey;
+  margin: 0;
+}
+.heads2{
+  color: white;
+  margin: 0  0 0 80px ;
+  display: inline-block;
+  position: relative;
+  bottom: 70px;
+
+}
+.ltext{
+  margin-left: 80px;
+  display: inline-block;
+  color: white;
+  position: relative;
+  bottom: 70px;
+}
+.rtext{
+
+  margin-left: 300px;
+  display: inline-block;
+  color: white;
+  position: relative;
+  top: 50px;
+}
+.mid2{
+  background-color:black;
+  padding: 30px 0 30px 0;
+}
+.heads3{
+  margin-left: 80px;
+  margin-top: 0;
+  color: white;
+}
+.text4{
+  margin: 0 0 20px 80px;
+  color: white;
+
+}
+.btn2{
+  position: relative;
+  right: 220px;
+}
+.bottom{
+  margin: 0;
+  background-color: grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.heads3{
+  margin: 0 700px 0 80px;
+
+  color: white;
+  display: inline-block;
+
+
+}
+.fimg{
+  margin-top: 10px;
+}
